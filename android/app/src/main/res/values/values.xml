@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">920171293642</string>
+    <string name="google_api_key" translatable="false">AIzaSyAoRhkko1-mo6E0-KlV7QCJuMQs5mpZ1yA</string>
+    <string name="google_app_id" translatable="false">1:920171293642:android:4a42faa87d940e53573d33</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoRhkko1-mo6E0-KlV7QCJuMQs5mpZ1yA</string>
+    <string name="google_storage_bucket" translatable="false">bazarhive-a4bf2.firebasestorage.app</string>
+    <string name="project_id" translatable="false">bazarhive-a4bf2</string>
+</resources>

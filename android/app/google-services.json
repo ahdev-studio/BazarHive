@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "920171293642",
+    "project_id": "bazarhive-a4bf2",
+    "storage_bucket": "bazarhive-a4bf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920171293642:android:4a42faa87d940e53573d33",
+        "android_client_info": {
+          "package_name": "com.example.bazarhive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920171293642-u99ikhpe1rvdvb89va0mkm0jpifeq7aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bazarhive",
+            "certificate_hash": "68291611183fc126f53e1719143d059ddee426f8"
+          }
+        },
+        {
+          "client_id": "920171293642-ubi1ddl30ftvff53ovtsv95ot1206nhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bazarhive",
+            "certificate_hash": "d5b705869144a2ceff408bf03b0979f3cdac9e5c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRhkko1-mo6E0-KlV7QCJuMQs5mpZ1yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
